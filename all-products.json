@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "sdsfsa",
+        "description": "HP",
+        "price": 99999,
+        "quantity": 40
+    },
+    {
+        "id": 2,
+        "name": "Machine",
+        "description": "HP",
+        "price": 120000,
+        "quantity": 40
+    },
+    {
+        "id": 3,
+        "name": "Cup",
+        "description": "tea cup",
+        "price": 500,
+        "quantity": 6
+    }
+]
